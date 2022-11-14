@@ -1,1 +1,1 @@
-# Sorted the array in increasing using Merge Sort.
+# Sorted the array in increasing order using Merge Sort.
